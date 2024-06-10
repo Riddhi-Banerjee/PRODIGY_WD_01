@@ -1,0 +1,115 @@
+body{
+	background-color:rgba(201, 76, 76, 0.3);
+  }
+.container1{
+  background-color:#FFFFE0;
+  font-size:30px;
+  padding:16px;
+  border-radius:10px;
+}
+.container1:hover{
+  background-color:#808080;
+  color:#fff;
+}
+button{
+  background-color:rgba(200, 74, 78, 0.5);
+  font-size:16px;
+  color:#000000;
+  margin-top:50px;
+  padding:16px;
+  
+  border-radius:10px;
+  border:3px solid #808080;
+}
+
+.container8 {
+  background-colour:#000000;
+  
+}
+.container2 {
+	width: 1280px;
+	max-width: 97%;
+	margin-top: 60px;
+  background-color:#FFFFE0;
+  font-size:26px;
+   border-top:4px solid #808080;
+  border-left:4px solid #808080;
+  border-right:4px solid #808080;
+  border-radius:10px;
+ padding:12px;
+}
+.container3 {
+	width: 1280px;
+	max-width: 97%;
+	margin: 0 auto;
+  background-color:rgba(201, 70, 70, 0.1);
+  
+  font-size:24px;
+  border-bottom:4px solid #808080;
+  border-left:4px solid #808080;
+  border-right:4px solid #808080;
+  font-family: Times,sans-serif;
+  border-radius:10px;
+  padding:12px;
+}
+
+button:hover{
+  background-color:#808080;
+  color:#D3D3D3;
+}
+.hidden1{
+  display:none;
+}
+.showing1{
+  display:block;
+  font-family: Times New Roman,sans-serif;
+  background-color:#ADD8E6;
+  width:420px;
+  color:#000000;
+  padding:14px;
+  margin-top:20px;
+  border-radius:10px;
+  margin-left:19.5px;
+}
+.hidden2{
+  display:none;
+}
+.showing2{
+  display:block;
+  font-family: Times New Roman,sans-serif;
+  background-color:#ADD8E6;
+  width:420px;
+  color:#000000;
+  padding:14px;
+  margin-top:20px;
+  border-radius:10px;
+  margin-left:19.5px;
+}
+.hidden3{
+  display:none;
+}
+.showing3{
+  display:block;
+  font-family: Times New Roman,sans-serif;
+  background-color:#ADD8E6;
+  width:420px;
+  color:#000000;
+  padding:14px;
+  margin-top:20px;
+  border-radius:10px;
+  margin-left:19.5px;
+}
+.hidden4{
+  display:none;
+}
+.showing4{
+  display:block;
+  font-family: Times New Roman,sans-serif;
+  background-color:#ADD8E6;
+  width:420px;
+  color:#000000;
+  padding:14px;
+  margin-top:20px;
+  border-radius:10px;
+  margin-left:19.5px;
+}
